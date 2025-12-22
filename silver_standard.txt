@@ -1,5 +1,7 @@
 Abbasanta
+Abbazia di San Galgano
 Abruzzo
+Accademia di Belle Arti di Brera
 Accademia di Belle Arti di Napoli
 Accra
 Acerenza
@@ -34,6 +36,7 @@ Alta Valtellina
 Altamura
 Alto Adige
 Alto Vicentino
+Altopiano di Asiago
 Alvernia
 Amalfi
 Amazzonia
@@ -46,6 +49,7 @@ Amsterdam
 Ancona
 Andalusia
 Annapurna
+Antico Egitto
 Antigua
 Anversa
 Appennini
@@ -53,11 +57,14 @@ Appennino
 Appennino Emiliano
 Appennino Toscano
 Appennino Tosco-Emiliano
+Appennino emiliano
+Appennino toscano
 Arabia
 Arad
 Aragona
 Aranceto
 Arborea
+Archivio Storico Luce
 Area 51
 Argenta
 Argentario
@@ -85,6 +92,7 @@ Austria-Ungheria
 Avana
 Avellino
 Avellino Rocchetta S.Antonio
+Avellino-Rocchetta S.Antonio
 Aversa
 Aviano
 Avila
@@ -99,13 +107,17 @@ Banari
 Bangkok
 Bangladesh
 Bangland
+Banyuls-sur-mer
+Barbagia
 Barcellona
 Barcola
 Bari
 Barona
 Basentana
 Basilea
+Basilica
 Basilicata
+Basso Salento
 Baviera
 Beirut
 Belfast
@@ -178,7 +190,9 @@ Camerun
 Campania
 Campania Felix
 Campi Bisenzio
+Campi Flegrei
 Campidano
+Campo di Hereford
 Campolaro della Carair
 Camporeale
 Canada
@@ -187,10 +201,17 @@ Cannes
 Canton
 Capaci
 Cape Town
+Capo di Leuca
 Cappella Sistina
 Capri
 Caracas
 Caraibi
+Carcere di Ancona
+Carcere di Lodi
+Carcere di Poggioreale
+Carcere di Rebibbia
+Carcere di Rovigo
+Carcere di Torino
 Carditello
 Carnia
 Carpazi
@@ -198,13 +219,16 @@ Carpinone-Sulmona
 Carrara
 Carso
 Casa Bianca
+Casa Circondariale Lorusso e Cutugno di Torino
 Casa Sollievo
 Casa Verdi
+Casa di Reclusione di Civitavecchia
 Casablanca
 Casabona
 Casal del Marmo
 Casal di Principe
 Casalborgone
+Casale Monferrato
 Casavatore
 Caserta
 Castel Nuovo
@@ -213,6 +237,9 @@ Castel Sant'Angelo
 Castel Volturno
 Castel d'Ario
 Castel dell'Ovo
+Castello di Azzurrina
+Castello di Cagliari
+Castello di Strongoli
 Castelrotto
 Castelvecchio
 Castelvolturno
@@ -227,6 +254,7 @@ Cefalonia
 Centocelle
 Centro Direzionale
 Centro Sperimentale di Cinematografia
+Centro storico di Bologna
 Ceraso
 Certosa
 Certosa di Padula
@@ -239,9 +267,12 @@ Chioggia
 Chitwan
 Chiusi
 Cile
+Cilento
 Cimitero Allegro
 Cimitero Inglese
 Cimitero Monumentale
+Cimitero di Poggioreale
+Cimitero di Varsavia
 Cina
 Cinecittà
 Cinisi
@@ -260,15 +291,18 @@ Ciénaga
 Cogne
 Colico
 Colle della Nasca
+Collegno
 Colombia
 Colosseo
 Columbia
 Como
+Comune di Napoli
 Comunità Montana di Bormio - Alta Valtellina
 Conegliano
 Conero
 Congo
 Connecticut
+Conservatorio San Pietro
 Contrada Tuono
 Conversano
 Copenhagen
@@ -280,6 +314,7 @@ Cosenza
 Costa Azzurra
 Costa Rica
 Costa d'Avorio
+Costa d'Opale
 Costantinopoli
 Costarica
 Costiera Amalfitana
@@ -302,13 +337,16 @@ Damasco
 Danimarca
 Danubio
 Death Valley
+Delta del Niger
 Delta del Po
+Deserto dell'Almeria
 Disneyland
 Dolomiti
 Douala
 Dover
 Dubai
 Dublino
+Duomo
 Duomo di Milano
 Durazzo
 East End
@@ -316,6 +354,7 @@ Egitto
 El Alamein
 Elba
 Emilia Romagna
+Emirati Arabi
 Emmaus
 Eolie
 Equatore
@@ -338,6 +377,8 @@ Filippine
 Finlandia
 Firenze
 Fiume Azzurro
+Fiume Isonzo
+Fiume Po
 Fiumicino
 Florida
 Floridia
@@ -365,10 +406,12 @@ Frosinone
 Gaeta
 Galilea
 Gallia
+Gallura
 Gange
 Gardalavaca
 Gargano
 Gaza
+Gazometro di Roma
 Gela
 Genova
 Georgia post-sovietica
@@ -399,6 +442,7 @@ Gran Bretagna
 Gran Sasso
 Granada
 Grande Mela
+Granducato di Toscana
 Gravina
 Grecia
 Groenlandia Orientale
@@ -417,12 +461,14 @@ Hollywood
 Hong Kong
 Hotel Copacabana
 Hotel Du Nord
+Hotel Fairmont
 Hotel Meina
 Ibiza
 Il Cairo
 Illirico
 Imola
 Imperia
+Impero Ottomano
 Inghilterra
 Ios
 Iowa
@@ -435,13 +481,19 @@ Ischia
 Islanda
 Isola
 Isola d'Elba
+Isola del Diavolo
+Isola dell'Asinara
 Isola delle Rose
+Isola di Salina
 Isolarotonda
 Isole Eolie
+Isole Tremiti
 Isonzo
 Israel
 Israele
 Istanbul
+Istituto Luce
+Istituto Penale
 Istmo
 Itaca
 Italia
@@ -472,8 +524,16 @@ La Serenissima
 La Spezia
 Lacedonia
 Lago Maggiore
+Lago d'Iseo
+Lago degli Idoli
+Lago del Turano
+Lago di Bolsena
+Lago di Como
 Lago di Garda
+Lago di Prespa
+Lago di Resia
 Laguna
+Laguna di Venezia
 Lajatico
 Lambrate
 Lamezia Terme
@@ -493,6 +553,7 @@ Libano
 Libbiano
 Libia
 Librino
+Liceo Galvani
 Lido
 Lido di Venezia
 Liguria
@@ -541,6 +602,8 @@ Manfredonia
 Manhattan
 Manila
 Mantova
+Mar Egeo
+Mar Mediterraneo
 Mar Nero
 Mar Rosso
 Marano
@@ -579,6 +642,9 @@ Miami
 Middlesex
 Milano
 Milazzo
+Ministero degli Interni
+Ministero dell'Interno
+Ministero della Salute
 Minorca
 Mirafiori
 Modena
@@ -589,13 +655,22 @@ Mole Antonelliana
 Molise
 Monaco
 Moncalieri
+Monferrato
 Mongolia
 Mons
 Mont Carmel
 Montagna
 Montalcino
 Montale
+Monte Baldo
 Monte Carlo
+Monte Grappa
+Monte Musinè
+Monte Pasubio
+Monte Rosa
+Monte Sole
+Monte Vulture
+Monte-Carlo
 Montebello
 Montecalvo Irpino
 Montecrastu
@@ -605,6 +680,7 @@ Montenegro
 Monterone
 Montevideo
 Monti
+Monti Alburni
 Monti Carpazi
 Monti Lessini
 Monti Sibillini
@@ -616,12 +692,18 @@ Mormanno
 Morra De Sanctis
 Mortara
 Mosca
+Muro di Berlino
+Museo Criminologico
 Museo Napoleonico dell'Avana
+Museo del Cinema
+Museo di Arte Antica
+Museo di Casa Leopardi a Recanati
 Museum of Modern Art
 Nairobi
 Namibia
 Napoli
 Napule
+Narni Scalo
 Nassiriya
 Navigli
 Navona
@@ -636,6 +718,7 @@ Niagara
 Nomentano
 Norbello
 Nord Africa
+Nord Est
 Nord Italia
 Norimberga
 Norvegia
@@ -650,6 +733,7 @@ Olbia
 Oneglia
 Orvieto
 Osaka
+Ospedale
 Osservatorio Vesuviano
 Ostia
 Ostia Idroscalo
@@ -660,19 +744,27 @@ Padania
 Paderborn
 Padiglione 22
 Padova
+Paesi Baschi
 Paestum
 Palagonia
 Palais Wilson
 Palatino
 Palazzo Bonadies
 Palazzo Chigi
+Palazzo Comunale di Ferrara
+Palazzo Farnese
 Palazzo Fruscione
+Palazzo Te
+Palazzo di Giustizia
 Palazzo di Venezia
 Palermo
 Palestina
 Palestrina
+Palio di Siena
 Palmira
 Pantelleria
+Parco Nazionale d'Abruzzo
+Parco del Cilento
 Parigi
 Parioli
 Parma
@@ -696,7 +788,14 @@ Philadelphia
 Piacenza
 Piadena
 Pianosa
+Pianura padana
 Piave
+Piazza Minghetti
+Piazza San Marco
+Piazza San Pietro
+Piazza Vittorio
+Piazza del Mercato
+Piazza del Popolo
 Piemonte
 Pietra di Bismantova
 Pietracamela
@@ -729,6 +828,8 @@ Pompei
 Ponente
 Ponte Latino
 Ponte Milvio
+Ponte di Mostar
+Ponte di Rialto
 Ponte sulla Drina
 Pontedera Teatro
 Pontina
@@ -739,12 +840,16 @@ Porta Nuova
 Porta Palazzo
 Porto Badisco
 Porto Buio
+Porto Rotondo
+Porto Torres
+Porto di Napoli
 Portoferraio
 Portofino
 Portogallo
 Portorico
 Posillipo
 Potenza
+Pozzuoli
 Praeneste
 Praga
 Pratello
@@ -753,6 +858,26 @@ Prealpi
 Prenestina
 Procida
 Provenza
+Provincia di Avellino
+Provincia di Bari
+Provincia di Benevento
+Provincia di Bergamo
+Provincia di Brindisi
+Provincia di Cagliari
+Provincia di Caserta
+Provincia di Cuneo
+Provincia di Enna
+Provincia di Lecce
+Provincia di Napoli
+Provincia di Palermo
+Provincia di Perugia
+Provincia di Ragusa
+Provincia di Rieti
+Provincia di Roma
+Provincia di Salerno
+Provincia di Sassari
+Provincia di Siracusa
+Provincia di Trento
 Puglia
 Purulia
 Quarticciolo
@@ -772,7 +897,12 @@ Reggio
 Reggio Calabria
 Reggio Emilia
 Regno d'Italia
+Regno delle due Sicilie
+Regno di Napoli
+Repubblica Ceca
 Repubblica Dominicana
+Repubblica di Macedonia
+Repubblica di Roma
 Rho
 Rialto
 Riano
@@ -811,7 +941,9 @@ Rwanda
 SS16
 Sabaudia
 Sabina
+Sacra Corona Unita
 Sacrario del Monte Grappa
+Sacro Romano Impero
 Saint Lazare
 Saint Moritz
 Saint Vincent
@@ -839,6 +971,7 @@ San Lupo
 San Miniato al Tedesco
 San Nicola Arcella
 San Pietro
+San Pietro Avellana
 San Pietro a Corte
 San Pietroburgo
 San Pietrogrado
@@ -909,10 +1042,15 @@ Sri Lanka
 Stadio Olimpico
 Stati Uniti
 Stati Uniti d'America
+Stazione Greco-Pirelli
 Stazione Termini
+Stazione di Bologna
+Stazione di Rocchetta
 Sternatia
 Stoccolma
+Strada statale 16 Adriatica
 Strasburgo
+Striscia di Gaza
 Stromboli
 Strongoli
 Su Pallosu
@@ -922,6 +1060,7 @@ Sud America
 Sud Italia
 Sud Tirolo
 Sud del Paese
+Sud pontino
 Sudafrica
 Sudamerica
 Sulmona
@@ -944,14 +1083,23 @@ Taurasi
 Tayibe
 Tbilisi
 Teatro Ateo
+Teatro Dubrovka
 Teatro Eliseo
+Teatro Metastasio
+Teatro Regio
+Teatro San Carlo
+Teatro Sistina
+Teatro Stabile
 Teatro Valle
 Teatro antico di Taormina
+Teatro dell'Elfo
 Teatro della Sapienza
 Tebe
 Teheran
 Tel Aviv
+Tel-Aviv
 Terezin
+Terme
 Termini Imerese
 Terra Santa
 Terra dei Fuochi
@@ -996,6 +1144,8 @@ Tre Cime
 Trentino
 Trento
 Treviso
+Tribunale di Palermo
+Tribunale di Sassari
 Trieste
 Trinacria
 Triveneto
@@ -1014,10 +1164,27 @@ Umbria
 Una Catania
 Ungheria
 Unione Sovietica
+Università La Sapienza
+Università dell'Aquila
+Università di Bologna
+Università di Catania
+Università di Cosenza
+Università di Firenze
+Università di Milano
+Università di Napoli
+Università di Pisa
+Università di Roma
 Università di Teheran
 Uruguay
 Ustica
 Vajont
+Val Codera
+Val Grande
+Val Susa
+Val d'Orcia
+Val dei Mocheni
+Val di Non
+Val di Susa
 Valacchia
 Valdobbiadene
 Valencia
@@ -1043,12 +1210,20 @@ Verona
 Versailles
 Versilia
 Vesuvio
+Via Crucis
+Via Don Minzoni
+Via Emilia Ponente
+Via Melchiorre Gioia
+Via Veneto
+Via del Mandrione
+Via dell'Aspromonte
 Viareggio
 Vicenza
 Vienna
 Vietnam
 Vietri sul Mare
 Vigevano
+Villa Adriana
 Villa Bellini
 Villa Bianca
 Villa El Chocon
@@ -1058,6 +1233,7 @@ Villa LaganÃ
 Villa Maraini
 Villa Matura
 Villa Primic
+Villa Quiete
 Villa Recchi
 Villa Torlonia
 Viterbo

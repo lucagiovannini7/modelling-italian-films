@@ -1243,7 +1243,6 @@ Serramezzana
 Sesia
 Sesto
 Sestu
-Sforza di Milano
 Shanghai
 Sharm el Sheikh
 Siberia
@@ -1295,7 +1294,6 @@ Sud Africa
 Sud America
 Sud Italia
 Sud Tirolo
-Sud del Paese
 Sud pontino
 Sudafrica
 Sudamerica
@@ -1524,7 +1522,6 @@ Yunnan
 Zamora
 Zen di Palermo
 Zurigo
-]
 aeroporto di Bolzano
 bacino del Vajont
 carcere di Lecce

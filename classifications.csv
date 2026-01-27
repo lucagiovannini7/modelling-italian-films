@@ -2,10 +2,10 @@ Abbasanta,settlement
 Abbazia di San Galgano,building
 Abisso del Bifurto,natural_area
 Abruzzo,region
-Accademia Nazionale di Danza,building
 Accademia delle Belle Arti di Napoli,building
 Accademia di Belle Arti di Brera,building
 Accademia di Belle Arti di Napoli,building
+Accademia Nazionale di Danza,building
 Accra,settlement
 Acerenza,settlement
 Acerra,settlement
@@ -15,6 +15,7 @@ Acque Traverse,water
 Adige,water
 Adria,settlement
 Adriatico,water
+aeroporto di Bolzano,building
 Afghanistan,nation
 Africa,continent
 Africo,settlement
@@ -24,8 +25,8 @@ Agro Pontino,region
 Agro romano,region
 Ajaccio,settlement
 Alaska,region
-Alba,settlement
 Alba Longa,settlement
+Alba,settlement
 Albalonga,settlement
 Albania,nation
 Alberobello,settlement
@@ -37,9 +38,9 @@ Alghero,settlement
 Alleghe,settlement
 Alliano,settlement
 Almeria,settlement
-Alpi,elevation
-Alpi Fred,elevation
 Alpi dell'Ötztal,elevation
+Alpi Fred,elevation
+Alpi,elevation
 Alsazia,region
 Alta Corte di Giustizia de L'Aja,building
 Alta Valtellina,region
@@ -51,9 +52,9 @@ Alvernia,region
 Amalfi,settlement
 Amazzonia,region
 Amburgo,settlement
-America,continent
 America Latina,region
 America meridionale,region
+America,continent
 Americhe,continent
 Amsterdam,settlement
 Ancona,settlement
@@ -63,18 +64,18 @@ Annapurna,elevation
 Antico Egitto,nation
 Antigua,settlement
 Anversa,settlement
-Appennini,elevation
 Appennini toscani,elevation
+Appennini,elevation
 Appenninico,elevation
-Appennino,elevation
 Appennino Emiliano,elevation
+Appennino emiliano,elevation
 Appennino Pistoiese,elevation
 Appennino Reggiano,elevation
 Appennino Toscano,elevation
-Appennino Tosco-Emiliano,elevation
-Appennino emiliano,elevation
 Appennino toscano,elevation
+Appennino Tosco-Emiliano,elevation
 Appennino tosco-emiliano,elevation
+Appennino,elevation
 Aquila,settlement
 Arabia,region
 Arad,settlement
@@ -93,8 +94,8 @@ Armenia,nation
 Arno,water
 Art District,neighborhood
 Ascoli Piceno,settlement
-Asia,continent
 Asia Minore,region
+Asia,continent
 Asiago,settlement
 Asinara,water
 Asolo,settlement
@@ -111,13 +112,14 @@ Australia,nation
 Austria,nation
 Austria-Ungheria,nation
 Avana,settlement
-Avellino,settlement
 Avellino Rocchetta S.Antonio,settlement
+Avellino,settlement
 Avellino-Rocchetta S.Antonio,settlement
 Aversa,settlement
 Avezzano,settlement
 Aviano,settlement
 Avila,settlement
+bacino del Vajont,water
 Baghdad,settlement
 Bagheria,settlement
 Bagnoli,neighborhood
@@ -183,8 +185,8 @@ Borgovecchio,neighborhood
 Borneo,water
 Bosa,settlement
 Bosforo,water
-Bosnia,nation
 Bosnia Herzegovina,nation
+Bosnia,nation
 Bosnia-Erzegovina,nation
 Boston Chicago,settlement
 Boston,settlement
@@ -226,13 +228,13 @@ Calvi,settlement
 Cambogia,nation
 Camelot,settlement
 Camerun,nation
-Campania,region
 Campania Felix,region
+Campania,region
 Campi Bisenzio,settlement
 Campi Flegrei,region
 Campidano,region
-Campo Imperatore,natural_area
 Campo di Hereford,natural_area
+Campo Imperatore,natural_area
 Campobasso,settlement
 Campobello,settlement
 Campolaro della Carair,natural_area
@@ -245,14 +247,15 @@ Canton,settlement
 Capaci,settlement
 Capalbio,settlement
 Cape Town,settlement
+Capo di Leuca,generic_area
 Capo Nord,generic_area
 Capo Rizzuto,generic_area
-Capo di Leuca,generic_area
 Cappella Sistina,building
 Capri,water
 Caracas,settlement
 Caraibi,region
 Carcere di Ancona,building
+carcere di Lecce,building
 Carcere di Lodi,building
 Carcere di Poggioreale,building
 Carcere di Rebibbia,building
@@ -266,9 +269,9 @@ Carrara,settlement
 Carso,region
 Casa Bianca,building
 Casa Circondariale Lorusso e Cutugno di Torino,building
+Casa di Reclusione di Civitavecchia,building
 Casa Sollievo,building
 Casa Verdi,building
-Casa di Reclusione di Civitavecchia,building
 Casablanca,settlement
 Casabona,settlement
 Casal del Marmo,neighborhood
@@ -277,18 +280,19 @@ Casalborgone,settlement
 Casale Monferrato,settlement
 Casavatore,settlement
 Caserta,settlement
+Castel d'Ario,settlement
+Castel dell'Ovo,building
 Castel Fusano,building
 Castel Nuovo,building
 Castel Porziano,building
 Castel San Giorgio,settlement
 Castel Sant'Angelo,building
 Castel Volturno,settlement
-Castel d'Ario,settlement
-Castel dell'Ovo,building
 Castellabate,settlement
 Castellavazzo,settlement
 Castello di Azzurrina,building
 Castello di Cagliari,building
+castello di Clarendon,building
 Castello di Strongoli,building
 Castelrotto,settlement
 Castelvecchio,neighborhood
@@ -310,8 +314,8 @@ Centro Direzionale,neighborhood
 Centro Sperimentale di Cinematografia,building
 Centro storico di Bologna,neighborhood
 Ceraso,settlement
-Certosa,building
 Certosa di Padula,building
+Certosa,building
 Cervia,settlement
 Cesena,settlement
 Cesenatico,settlement
@@ -322,13 +326,15 @@ Chicago,settlement
 Chioggia,settlement
 Chitwan,region
 Chiusi,settlement
+Ciénaga,settlement
 Cile,nation
 Cilento,region
 Cimitero Allegro,building
-Cimitero Inglese,building
-Cimitero Monumentale,building
+cimitero di Napoli,building
 Cimitero di Poggioreale,building
 Cimitero di Varsavia,building
+Cimitero Inglese,building
+Cimitero Monumentale,building
 Cina,nation
 Cinecittà,neighborhood
 Cinisi,settlement
@@ -341,17 +347,16 @@ Cisterna di Latina,settlement
 Città del Capo,settlement
 Città del Messico,settlement
 Città della Scienza,building
-Civita,settlement
 Civita di Bagnoregio,settlement
 Civita di Terentola,settlement
+Civita,settlement
 Civitella San Paolo,settlement
-Ciénaga,settlement
 Codevigo,settlement
 Codissago,settlement
 Cogne,settlement
 Colico,settlement
-Colle Vignoni,settlement
 Colle della Nasca,elevation
+Colle Vignoni,settlement
 Collegno,settlement
 Collenovo,settlement
 Colombia,nation
@@ -368,8 +373,8 @@ Conegliano,settlement
 Conero,elevation
 Congo,nation
 Connecticut,region
-Conservatorio,building
 Conservatorio San Pietro,building
+Conservatorio,building
 Contrada Tuono,neighborhood
 Convento delle Clarisse,building
 Conversano,settlement
@@ -378,14 +383,14 @@ Copertino,settlement
 Corleone,settlement
 Cornigliano,neighborhood
 Corsica,water
-Cortina,settlement
 Cortina d'Ampezzo,settlement
+Cortina,settlement
 Cortona,settlement
 Cosenza,settlement
 Costa Azzurra,region
-Costa Rica,nation
 Costa d'Avorio,nation
 Costa d'Opale,region
+Costa Rica,nation
 Costantinopoli,settlement
 Costarica,nation
 Costiera Amalfitana,region
@@ -412,9 +417,11 @@ Danimarca,nation
 Danubio,water
 Death Valley,valley
 Delta del Niger,water
+delta del Niger,water
 Delta del Po,water
 Derna,settlement
 Deserto dell'Almeria,natural_area
+diga del Vajont,building
 Disneyland,building
 Dolomiti,elevation
 Douala,settlement
@@ -423,16 +430,16 @@ Dubai,settlement
 Dublino,settlement
 Duchessa di Amalfi,settlement
 Due Sicilie,nation
-Duomo,building
 Duomo di Milano,building
+Duomo,building
 Durazzo,settlement
 East End,neighborhood
 Egitto,nation
 El Alamein,settlement
 Elba,water
 Ellis Island,water
-Emilia,region
 Emilia Romagna,region
+Emilia,region
 Emirati Arabi,nation
 Emmaus,settlement
 Enna,settlement
@@ -446,10 +453,10 @@ Esquilino,neighborhood
 Est Europa,region
 Etiopia,nation
 Etna,elevation
-Eur,neighborhood
 Eur di,neighborhood
-Europa,continent
+Eur,neighborhood
 Europa del Nord,region
+Europa,continent
 Everest,elevation
 FacoltÃ  di Bologna,building
 Faenza,settlement
@@ -469,10 +476,10 @@ Fiume Azzurro,water
 Fiume Isonzo,water
 Fiume Po,water
 Fiumicino,settlement
+Flòr da Baixa,neighborhood
 Floriano del Collio,settlement
 Florida,region
 Floridia,settlement
-Flòr da Baixa,neighborhood
 Foggia,settlement
 Foligno,settlement
 Follonica,settlement
@@ -493,11 +500,12 @@ Francia,nation
 Francoforte,settlement
 Fregene,settlement
 Friburgo,settlement
-Friuli,region
 Friuli Venezia Giulia,region
+Friuli,region
 Frosinone,settlement
 Fuorigrotta,neighborhood
 Gaeta,settlement
+galassia di Andromeda,generic_area
 Galilea,region
 Gallia,region
 Gallura,region
@@ -511,12 +519,12 @@ Gazometro di Roma,building
 Gela,settlement
 Genova,settlement
 Georgia post-sovietica,nation
-Germania,nation
 Germania del Nord,region
+Germania,nation
 Gerusalemme,settlement
 Ghana,nation
-Ghetto,neighborhood
 Ghetto di Roma,neighborhood
+Ghetto,neighborhood
 Ghilarza,settlement
 Giappone,nation
 Giardino di Villa Bardini,building
@@ -529,14 +537,16 @@ Giura,elevation
 Giussano,settlement
 Goa,region
 Goleto,settlement
-Golfo,water
-Golfo Persico,water
 Golfo di Napoli,water
+Golfo Persico,water
+Golfo,water
 Gorizia,settlement
+Grândola,settlement
 Graceland,building
 Gradisca,settlement
 Grado,settlement
 Gradoli,settlement
+GrÃ¢ndola,settlement
 Gran Bazar di Istanbul,building
 Gran Bretagna,nation
 Gran Sasso,elevation
@@ -547,8 +557,6 @@ Gravina,settlement
 Grecia,nation
 Groenlandia Orientale,region
 Grosseto,settlement
-GrÃ¢ndola,settlement
-Grândola,settlement
 Guatemala,nation
 Guidonia,settlement
 Guyana,nation
@@ -573,9 +581,9 @@ Illirico,region
 Ilva di Napoli,building
 Imola,settlement
 Imperia,settlement
-Impero Ottomano,nation
 Impero austro-ungarico,nation
 Impero d'Occidente,nation
+Impero Ottomano,nation
 India,nation
 Inferno,generic_area
 Inghilterra,nation
@@ -585,19 +593,20 @@ Iowa,region
 Iquitos,settlement
 Iran,nation
 Iraq,nation
-Irlanda,nation
 Irlanda del nord,region
+Irlanda,nation
 Irpinia,region
 Ischia,water
 Islanda,nation
-Isola,water
-Isola d'Elba,water
 Isola del Diavolo,water
 Isola del Giglio,water
+Isola d'Elba,water
 Isola dell'Asinara,water
 Isola delle Rose,water
 Isola di Salina,water
 Isola di Ustica,water
+isola Tiberina,water
+Isola,water
 Isolarotonda,water
 Isole Cayman,water
 Isole Eolie,water
@@ -611,10 +620,10 @@ Istituto Penale,building
 Istituto San Luigi,building
 Istmo,water
 Itaca,water
-Italia,nation
-Italia Nord,region
 Italia centrale,region
 Italia del Sud,region
+Italia Nord,region
+Italia,nation
 Italie,nation
 Italy,nation
 Ivrea,settlement
@@ -634,8 +643,6 @@ Kuala Lumpur,settlement
 Kurdistan,region
 Kyoto,settlement
 L' Aquila,settlement
-L'Aquila,settlement
-L'Avana,settlement
 La Ciénaga,settlement
 La Galite,water
 La Mancha,region
@@ -645,19 +652,22 @@ La Serenissima,nation
 La Spezia,settlement
 Lacedonia,settlement
 Ladispoli,settlement
-Lago Maggiore,water
-Lago d'Iseo,water
 Lago degli Idoli,water
 Lago del Turano,water
 Lago di Bolsena,water
 Lago di Como,water
+lago di Como,water
 Lago di Garda,water
 Lago di Prespa,water
 Lago di Resia,water
+Lago d'Iseo,water
+lago d'Iseo,water
+Lago Maggiore,water
+lago Maggiore,water
 Lagos,settlement
-Laguna,water
-Laguna San Rafael,water
 Laguna di Venezia,water
+Laguna San Rafael,water
+Laguna,water
 Lajatico,settlement
 Lambrate,neighborhood
 Lamezia Terme,settlement
@@ -666,8 +676,10 @@ Lanerossi Vicenza,building
 Langa,region
 Langhe,region
 Laos,nation
+L'Aquila,settlement
 Las Vegas,settlement
 Latina,settlement
+L'Avana,settlement
 Lazio,region
 Le Havre,settlement
 Lecce,settlement
@@ -675,28 +687,49 @@ Lecco,settlement
 Legnano,settlement
 Leuca,settlement
 Libano,nation
+Libbiano, settlement
 Libia,nation
-Lido,neighborhood
+Librino, neighborhood
+liceo classico Parini,building
+liceo Manzoni,building
 Lido di Ostia,settlement
 Lido di Venezia,settlement
+Lido,neighborhood
+Liechtenstein, nation
 Liguria,region
 Lima,settlement
 Limerick,settlement
+Lincoln Avenue, street
+Lingotto, neighborhood
+Linosa, settlement
+Lione, settlement
 Lipari,water
 Lisbona,settlement
+Lissa, settlement
+Lituania, nation
 Livigno,settlement
 Livorno,settlement
+Llano Grande, settlement
+Locarno, settlement
+Locorotondo, settlement
 Lodi,settlement
+Lodz, settlement
 Lombardia,region
 Londra,settlement
 Longarone,settlement
+Loreto, settlement
 Los Angeles,settlement
+Louvre, building
 Lubiana,settlement
 Lucania,region
 Lucca,settlement
+Lucignano, settlement
 Lugano,settlement
 Luino,settlement
+Lungotevere, street
 Lunigiana,region
+Luogosano, settlement
+Luserna, settlement
 Lussemburgo,nation
 Lussino,water
 Macedonia,nation
@@ -704,8 +737,14 @@ Macerata,settlement
 Machu Picchu,settlement
 Madagascar,nation
 Madeira,water
+Madonie, elevation
+Madonna di Campiglio, settlement
 Madrid,settlement
+Maghreb, region
+Magistratura di Venezia, building
+Magliana, neighborhood
 Magliano,settlement
+Magna Grecia, region
 Maiella,elevation
 Maine,region
 Majella,elevation
@@ -713,108 +752,188 @@ Malatya,settlement
 Malawi,nation
 Malesia,nation
 Mali,nation
-Malta,nation
+Malopasso, settlement
 Malpensa,building
+Malta,nation
 Managua,settlement
+Manaus, settlement
 Manchester,settlement
 Manduria,settlement
+Manfredonia, settlement
 Manhattan,neighborhood
 Manila,settlement
 Mantova,settlement
-Marassi,neighborhood
 Mar Caspio,water
+mar di Sardegna,water
 Mar Egeo,water
 Mar Ionio,water
 Mar Ligure,water
 Mar Mediterraneo,water
 Mar Nero,water
 Mar Rosso,water
+mar Tirreno,water
+Marano, settlement
+Marassi,neighborhood
+Maratea, settlement
 Marche,region
+Marchigiano, region
+Marcianise, settlement
+Marcinelle, settlement
+mare dell'Argentario,water
 Maremma,region
 Marghera,neighborhood
 Marigliano,settlement
-Marina,neighborhood
 Marina di Camerota,settlement
+Marina,neighborhood
 Marocco,nation
+Marrakech, settlement
 Marsala,settlement
 Marsiglia,settlement
+Martignano, settlement
 Martina Franca,settlement
 Maryland,region
-Massachusetts,region
+Mashad, settlement
 Massa,settlement
+Massachusetts,region
+Massaquano, settlement
+Masseria delle Allodole, building
 Matera,settlement
 Mauritania,nation
+Mauritius, nation
 Mazara del Vallo,settlement
 Mazzarino,settlement
+Meda, settlement
 Medellin,settlement
+Medicina, settlement
+Medio Oriente,region
+Medioevo, generic_area
+Medioriente, region
+Mediterranea, region
 Mediterraneo,water
 Medoro,neighborhood
+Megaride, neighborhood
+Meina, settlement
+Melara, settlement
 Melbourne,settlement
 Melfi,settlement
+Melito, settlement
+Memphis, settlement
+Mentone, settlement
 Merano,settlement
+Mercantour, elevation
+Mergellina, neighborhood
+Meridione, region
+Messico Occidentale, region
 Messico,nation
 Messina,settlement
 Mestre,neighborhood
+Metropoliz - Roma, building
 Mexico City,settlement
+Mezzago, settlement
+Mezzogiorno, region
 Miami,settlement
 Michigan,region
-Medio Oriente,region
+Middlesex, region
 Milano,settlement
+Milazzo, settlement
 Mineo,settlement
+Ministero degli Interni, building
+Ministero della Salute, building
+Ministero dell'Interno, building
+Minorca, settlement
 Minsk,settlement
 Mira,settlement
+Mirafiori, neighborhood
 Mirandola,settlement
+Misano, settlement
 Miseno,settlement
 Missisipi,water
 Modena,settlement
+Modica, settlement
 Mogadiscio,settlement
+Moldavia, nation
 Moldova,nation
+Mole Antonelliana, building
 Molise,region
 Mompracem,water
 Monaco,nation
 Monastero di Santa Chiara,building
+Monastero di St. Denis, building
+Moncalieri, settlement
 Monfalcone,settlement
+Monferrato, region
 Mongolia,nation
 Monopoli,settlement
 Monreale,settlement
+Mons, settlement
+Mont Carmel, elevation
 Montagna,elevation
 Montagnana,settlement
 Montagne Rocciose,elevation
 Montalbano,region
+Montalcino, settlement
 Montale,settlement
 Montana,region
 Monte Argentario,elevation
+Monte Baldo, elevation
 Monte Bianco,elevation
 Monte Carlo,settlement
 Monte Circeo,elevation
+monte Circeo,elevation
+Monte di Procida,settlement
 Monte Grappa,elevation
+Monte Meru, elevation
+Monte Musinè, elevation
+Monte Pasubio, elevation
 Monte Rosa,elevation
 Monte Sant'Angelo,settlement
+Monte Sole, elevation
 Monte Soratte,elevation
 Monte Testaccio,elevation
+Monte Toc, elevation
+monte Toc,elevation
 Monte Vesuvio,elevation
-Monte di Procida,settlement
+Monte Vulture, elevation
 Montebello,settlement
+Montecalvo Irpino, settlement
+Monte-Carlo, settlement
 Montecarlo,settlement
 Montecassino,building
+Montecatini Terme, settlement
 Montecatini,settlement
+Montecrastu, elevation
+Montecristo, settlement
+Montedoro, settlement
+Monteforte, settlement
+Montegallo, settlement
+Monteleone, settlement
 Montelupo Fiorentino,settlement
 Montenegro,nation
 Montepulciano,settlement
 Monterey,settlement
+Monterone, settlement
 Monterotondo,settlement
+Montevideo, settlement
+Monti Carpazi, elevation
 Monti Lattari,elevation
+Monti Lessini, elevation
+Monti sibillini, elevation
 Monti Sibillini,elevation
+Monti, neighborhood
 Monticelli,settlement
 Montichiari,settlement
-Montreal,settlement
+Montmartre, neighborhood
+Montorio di Terni, settlement
 Montréal,settlement
+Montreal,settlement
 Monza,settlement
 Moratoria,settlement
 Morbegno,settlement
 Mormanno,settlement
+Morra De Sanctis, settlement
 Mortara,settlement
 Mosca,settlement
+Moscazzano, settlement
 Mosul,settlement
 Mozambico,nation
 Mumbai,settlement
@@ -822,8 +941,20 @@ Munchhausen,settlement
 Munich,settlement
 Murano,neighborhood
 Murgia,region
+Muro di Berlino, building
+Museo Criminologico, building
+Museo del Cinema, building
+Museo di Arte Antica, building
+Museo di Casa Leopardi a Recanati, building
+Museo Napoleonico dell'Avana, building
+Nairobi, settlement
+Namibia, nation
 Napoli,settlement
 Nardò,settlement
+Narni Scalo, settlement
+Nasiriyya, settlement
+Nassiriya, settlement
+Navigli, neighborhood
 Navona,street
 Nazareth,settlement
 Neapolis,settlement
@@ -834,6 +965,8 @@ Nettuno,settlement
 Nevada,region
 New Jersey,region
 New Orleans,settlement
+New York City, settlement
+New york, settlement
 New York,settlement
 Niagara,water
 Nicaragua,nation
@@ -869,10 +1002,10 @@ Orvieto,settlement
 Osaka,settlement
 Oslo,settlement
 Ospedale,building
-Osservatorio Vesuviano,building
 Osservatorio di Roma,building
-Ostia,settlement
+Osservatorio Vesuviano,building
 Ostia Idroscalo,settlement
+Ostia,settlement
 Ostiense,neighborhood
 Ostuni,settlement
 Osuna,settlement
@@ -893,38 +1026,40 @@ Palatino,neighborhood
 Palazzo Barberini,building
 Palazzo Bonadies,building
 Palazzo Chigi,building
+palazzo Chigi,building
 Palazzo Comunale di Ferrara,building
+Palazzo di Giustizia,building
+Palazzo di Venezia,building
 Palazzo Farnese,building
 Palazzo Fruscione,building
 Palazzo Reale,building
 Palazzo Te,building
-Palazzo di Giustizia,building
-Palazzo di Venezia,building
 Palermo,settlement
 Palestina,nation
 Palestrina,settlement
 Palio di Siena,building
 Palmira,settlement
 Pantelleria,water
-Parco Nazionale d'Abruzzo,natural_area
 Parco del Cilento,natural_area
+parco del Gianicolo,natural_area
+Parco Nazionale d'Abruzzo,natural_area
 Parigi,settlement
 Parioli,neighborhood
 Parma,settlement
 Passo Borgo,street
 Passo San Leonardo,street
 Passo Scuro,street
-Patagonia,region
 Patagonia argentina,region
 Patagonia cilena,region
+Patagonia,region
 Patrasso,settlement
 Pavia,settlement
 Pechino,settlement
 Pembroke,settlement
 Pentagono,building
+Perù,nation
 Pergine,settlement
 Perugia,settlement
-Perù,nation
 Pescara,settlement
 Peschici,settlement
 Peterzano,settlement
@@ -935,15 +1070,16 @@ Piadena,settlement
 Pianosa,water
 Pianura padana,region
 Piave,water
-Piazza Fontana,street
-Piazza Minghetti,street
-Piazza San Marco,street
-Piazza San Pietro,street
-Piazza Vittorio,street
 Piazza del Mercato,street
 Piazza del Popolo,street
 Piazza delle Camelie,street
 Piazza delle Cinque Lune,street
+Piazza Fontana,street
+Piazza Minghetti,street
+piazza Navona,street
+Piazza San Marco,street
+Piazza San Pietro,street
+Piazza Vittorio,street
 Piemonte,region
 Pietra di Bismantova,elevation
 Pietracamela,settlement
@@ -957,16 +1093,16 @@ Pirellone,building
 Pirenei,elevation
 Pisa,settlement
 Pistoia,settlement
-Plaza de Mayo,street
-Plaza de la RevolucÃ¬on,street
 Plaza de la Revolucìon,street
+Plaza de la RevolucÃ¬on,street
+Plaza de Mayo,street
 Po,water
 Podrute,settlement
 Poggioreale,neighborhood
 Pola,settlement
 Policoro,settlement
-Polignano,settlement
 Polignano a Mare,settlement
+Polignano,settlement
 Politeama,building
 Pollino,elevation
 Pollsmoor,building
@@ -977,12 +1113,12 @@ Polverigi,settlement
 Pomezia,settlement
 Pompei,settlement
 Ponente,neighborhood
-Ponte Latino,street
-Ponte Milvio,street
 Ponte della Ghisolfa,street
 Ponte di Brooklyn,street
 Ponte di Mostar,street
 Ponte di Rialto,street
+Ponte Latino,street
+Ponte Milvio,street
 Ponte sulla Drina,street
 Pontedera Teatro,building
 Pontina,street
@@ -997,9 +1133,10 @@ Porta Pia,street
 Portici,settlement
 Porto Badisco,settlement
 Porto Buio,settlement
+Porto di Napoli,street
+porto di Napoli,street
 Porto Rotondo,settlement
 Porto Torres,settlement
-Porto di Napoli,street
 Portoferraio,settlement
 Portofino,settlement
 Portogallo,nation
@@ -1026,6 +1163,8 @@ Provincia di Caserta,region
 Provincia di Cuneo,region
 Provincia di Enna,region
 Provincia di Lecce,region
+provincia di Lecce,region
+provincia di Milano,region
 Provincia di Napoli,region
 Provincia di Palermo,region
 Provincia di Perugia,region
@@ -1052,19 +1191,20 @@ Recanati,settlement
 Recife,settlement
 Reggia di Carditello,building
 Reggia di Caserta,building
-Reggio,settlement
+reggia di Napoli,building
 Reggio Calabria,settlement
 Reggio Emilia,settlement
-Regno Unito,nation
-Regno d'Italia,nation
+Reggio,settlement
 Regno delle due Sicilie,nation
 Regno di Napoli,nation
 Regno di Sicilia,nation
+Regno d'Italia,nation
+Regno Unito,nation
 Renon,region
 Repubblica Ceca,nation
-Repubblica Dominicana,nation
 Repubblica di Macedonia,nation
 Repubblica di Roma,nation
+Repubblica Dominicana,nation
 Resia,settlement
 Reuma Park,building
 Rho,settlement
@@ -1074,13 +1214,14 @@ Riccione,settlement
 Rieti,settlement
 Riga,settlement
 Rimini,settlement
-Rio,settlement
-Rio Grande,water
-Rio Negro,water
 Rio de Janeiro,settlement
 Rio della Grana,water
 Rio delle Amazzoni,water
+Rio Grande,water
+Rio Negro,water
+Rio,settlement
 Rione Sanità,neighborhood
+rione Sanità,neighborhood
 Riparbella,settlement
 Robben Island,water
 Rocca Canterano,settlement
@@ -1091,13 +1232,13 @@ Rocca di Sotto,settlement
 Roccaforte,settlement
 Roccamonfina,settlement
 Roccapinola,settlement
-Roma,settlement
+Roma di Piove,settlement
 Roma Imperiale,nation
 Roma Nord,neighborhood
 Roma Sapienza,building
 Roma Sud,neighborhood
 Roma Termini,building
-Roma di Piove,settlement
+Roma,settlement
 Romagna,region
 Romania,nation
 Roncone,settlement
@@ -1109,7 +1250,7 @@ Rovigo,settlement
 Ruffano,settlement
 Russia,nation
 Rwanda,nation
-SS16,street
+Sèvres,settlement
 Sabaudia,settlement
 Sabina,region
 Sacra Corona Unita,building
@@ -1121,12 +1262,12 @@ Saint Lucia,water
 Saint Moritz,settlement
 Saint Vincent,settlement
 Sala Ovale,building
+Salò,settlement
 Salento,region
 Salerno,settlement
 Salina,water
 Salonicco,settlement
 Salvia di Lucania,settlement
-Salò,settlement
 San Basilio,neighborhood
 San Berillo,neighborhood
 San Carlo,building
@@ -1138,18 +1279,18 @@ San Floriano del Collio,settlement
 San Francisco,settlement
 San Gennaro,building
 San Giorgio,neighborhood
-San Giovanni,neighborhood
-San Giovanni Rotondo,settlement
 San Giovanni a Teduccio,neighborhood
-San Lorenzo,neighborhood
+San Giovanni Rotondo,settlement
+San Giovanni,neighborhood
 San Lorenzo al Vesuvio,settlement
+San Lorenzo,neighborhood
 San Lupo,settlement
 San Martino,neighborhood
 San Miniato al Tedesco,settlement
 San Nicola Arcella,settlement
-San Pietro,neighborhood
-San Pietro Avellana,settlement
 San Pietro a Corte,building
+San Pietro Avellana,settlement
+San Pietro,neighborhood
 San Pietroburgo,settlement
 San Pietrogrado,settlement
 San Salvador,settlement
@@ -1159,10 +1300,9 @@ Sangro,water
 Sannio,region
 Sanremo,settlement
 Sansevero,building
-Sant'Apollinare,building
 Santa Brigida,settlement
-Santa Caterina,settlement
 Santa Caterina di Prato,settlement
+Santa Caterina,settlement
 Santa Cristina,settlement
 Santa Fede,settlement
 Santa Maria della Pace,building
@@ -1171,8 +1311,9 @@ Santa Marinella,settlement
 Santa Mira,settlement
 Santa Sede,nation
 Santa Teresa d'Avila,settlement
-Santiago,settlement
+Sant'Apollinare,building
 Santiago del Cile,settlement
+Santiago,settlement
 Santo Domingo,settlement
 Santo Stefano degli Ulivi,settlement
 Santorini,water
@@ -1190,8 +1331,8 @@ Saturnia,settlement
 Saviano,settlement
 Savona,settlement
 Scampia,neighborhood
-Scanzano,settlement
 Scanzano Jonico,settlement
+Scanzano,settlement
 Schirmeck,settlement
 Scicli,settlement
 Sebina,region
@@ -1206,13 +1347,14 @@ Serramezzana,settlement
 Sesia,water
 Sesto,settlement
 Sestu,settlement
+Sforza di Milano, building
 Shanghai,settlement
 Sharm el Sheikh,settlement
-Siberia,region
 Siberia Orientale,region
+Siberia,region
 Sibillini,elevation
-Sicilia,region
 Sicilia meridionale,region
+Sicilia,region
 Siena,settlement
 Sila,elevation
 Silicon Valley,region
@@ -1234,20 +1376,25 @@ Spinaceto,neighborhood
 Spinazzola,settlement
 Srebrenica,settlement
 Sri Lanka,nation
+SS16,street
 St. Moritz,settlement
 Stadio Olimpico,building
-Stati Uniti,nation
 Stati Uniti d'America,nation
+Stati Uniti,nation
 Stato Pontificio,nation
+Stazione di Bologna,building
+stazione di Bologna,building
+Stazione di Rocchetta,building
+stazione di Roma Termini,building
 Stazione Greco-Pirelli,building
 Stazione Termini,building
-Stazione di Bologna,building
-Stazione di Rocchetta,building
+stazione Termini,building
 Sternatia,settlement
 Stoccolma,settlement
 Strada statale 16 Adriatica,street
 Strasburgo,settlement
 Stresa,settlement
+stretto di Messina,water
 Striscia di Gaza,region
 Stromboli,water
 Strongoli,settlement
@@ -1256,8 +1403,8 @@ Suburra,neighborhood
 Sud Africa,nation
 Sud America,continent
 Sud Italia,region
-Sud Tirolo,region
 Sud pontino,region
+Sud Tirolo,region
 Sudafrica,nation
 Sudamerica,continent
 Sudan,nation
@@ -1269,11 +1416,10 @@ Sussò,settlement
 Suzhou,settlement
 Svalbard,region
 Svezia,nation
-Svizzera,nation
 Svizzera italiana,region
+Svizzera,nation
 Syangboche,settlement
 Sydney,settlement
-Sèvres,settlement
 Tagikistan,nation
 Tangeri,settlement
 Tanzania,nation
@@ -1284,7 +1430,11 @@ Taurasi,settlement
 Tayibe,settlement
 Tbilisi,settlement
 Teano,settlement
+Teatro antico di Taormina,building
 Teatro Ateo,building
+Teatro della Sapienza,building
+Teatro dell'Elfo,building
+Teatro di Roma,building
 Teatro Dubrovka,building
 Teatro Eliseo,building
 Teatro Metastasio,building
@@ -1293,10 +1443,6 @@ Teatro San Carlo,building
 Teatro Sistina,building
 Teatro Stabile,building
 Teatro Valle,building
-Teatro antico di Taormina,building
-Teatro dell'Elfo,building
-Teatro della Sapienza,building
-Teatro di Roma,building
 Tebe,settlement
 Teheran,settlement
 Tel Aviv,settlement
@@ -1305,10 +1451,10 @@ Tempio Maggiore,building
 Teramo,settlement
 Terezin,settlement
 Terme,building
-Termini,neighborhood
 Termini Imerese,settlement
-Terra Santa,region
+Termini,neighborhood
 Terra dei Fuochi,region
+Terra Santa,region
 Terracina,settlement
 Terrarossa,settlement
 Terrasini,settlement
@@ -1323,8 +1469,8 @@ Timpa delle Magare,elevation
 Tirana,settlement
 Tirolo,region
 Tirrenica,region
-Tirreno,water
 Tirreno cosentino,water
+Tirreno,water
 Tivoli,settlement
 Togo,nation
 Tokyo,settlement
@@ -1334,17 +1480,17 @@ Tolone,settlement
 Tolosa,settlement
 Tombolo,settlement
 Tor Bella Monaca,neighborhood
-Tor Sapienza,neighborhood
 Tor di Valle,neighborhood
+Tor Sapienza,neighborhood
 Torbellamonaca,neighborhood
 Torino,settlement
 Toronto,settlement
 Torpignattara,neighborhood
 Torre Annunziata,settlement
 Torre Canne,settlement
-Torre Eiffel,building
 Torre del Lago,settlement
 Torre di Londra,building
+Torre Eiffel,building
 Torrematta,settlement
 Torvaianica,settlement
 Toscana,region
@@ -1375,14 +1521,12 @@ Turingia,region
 Turkmenistan,nation
 Tuscia,region
 Tuscolana,neighborhood
-USA,nation
 Ucraina,nation
 Udine,settlement
 Umbria,region
 Una Catania,settlement
 Ungheria,nation
 Unione Sovietica,nation
-Università La Sapienza,building
 Università dell'Aquila,building
 Università di Bologna,building
 Università di Catania,building
@@ -1393,28 +1537,31 @@ Università di Napoli,building
 Università di Pisa,building
 Università di Roma,building
 Università di Teheran,building
+Università La Sapienza,building
 Urbe,settlement
 Uruguay,nation
+USA,nation
 Ustica,water
 Vajont,water
 Val Codera,valley
-Val Grande,valley
-Val Susa,valley
-Val d'Orcia,valley
 Val dei Mocheni,valley
 Val di Non,valley
 Val di Susa,valley
+Val d'Orcia,valley
+Val Grande,valley
+Val Susa,valley
 Valacchia,region
 Valbona,settlement
 Valdobbiadene,settlement
 Valencia,settlement
 Valguarnera,settlement
-Valle Serena,valley
 Valle d'Aosta,region
-Valle d'Itria,valley
 Valle de los Caidos,valley
 Valle del Chiese,valley
 Valle del Vajont,valley
+valle del Vajont,valley
+Valle d'Itria,valley
+Valle Serena,valley
 Valli del Natisone,valley
 Vallombrosa,settlement
 Valona,settlement
@@ -1429,18 +1576,20 @@ Venezuela,nation
 Ventimiglia,settlement
 Ventotene,water
 Vermiglio,settlement
-Verona,settlement
 Verona Porta Nuova,building
+Verona,settlement
 Versailles,building
 Versilia,region
 Vesuvio,elevation
+via Caetani,street
 Via Crucis,street
-Via Don Minzoni,street
-Via Emilia Ponente,street
-Via Melchiorre Gioia,street
-Via Veneto,street
 Via del Mandrione,street
 Via dell'Aspromonte,street
+Via Don Minzoni,street
+Via Emilia Ponente,street
+via Fani,street
+Via Melchiorre Gioia,street
+Via Veneto,street
 Viareggio,settlement
 Vicenza,settlement
 Vienna,settlement
@@ -1485,37 +1634,3 @@ Yunnan,region
 Zamora,settlement
 Zen di Palermo,neighborhood
 Zurigo,settlement
-aeroporto di Bolzano,building
-bacino del Vajont,water
-carcere di Lecce,building
-castello di Clarendon,building
-cimitero di Napoli,building
-delta del Niger,water
-diga del Vajont,building
-galassia di Andromeda,generic_area
-isola Tiberina,water
-lago Maggiore,water
-lago d'Iseo,water
-lago di Como,water
-liceo Manzoni,building
-liceo classico Parini,building
-mar Tirreno,water
-mar di Sardegna,water
-mare dell'Argentario,water
-monte Circeo,elevation
-monte Toc,elevation
-palazzo Chigi,building
-parco del Gianicolo,natural_area
-piazza Navona,street
-porto di Napoli,street
-provincia di Lecce,region
-provincia di Milano,region
-reggia di Napoli,building
-rione Sanità,neighborhood
-stazione Termini,building
-stazione di Bologna,building
-stazione di Roma Termini,building
-stretto di Messina,water
-valle del Vajont,valley
-via Caetani,street
-via Fani,street
